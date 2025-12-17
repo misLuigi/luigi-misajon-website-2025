@@ -32,6 +32,19 @@ function Blog() {
       featured: true,
       slug: "writing-my-first-personal-blog",
     },
+    {
+      id: 3,
+      title:
+        "How I Connected a React Contact Form to HighLevel Using n8n (Without Premium Webhooks)",
+      excerpt:
+        "This project documents how I built a simple but functional automation workflow that connects a React-based website contact form to HighLevel CRM using n8n. I’ll walk through the problems I faced—from code issues and webhook configuration to JSON errors and API authentication—and how I solved them step by step.",
+      date: "December 17, 2025",
+      readTime: "10 min read",
+      category: "Automation",
+      image: "/images/Contact-Form-to-n8n-to-highlevel-image.webp",
+      featured: true,
+      slug: "connecting-react-contact-form-to-highlevel-using-n8n",
+    },
   ];
 
   const categories = [

@@ -21,6 +21,7 @@ import DevantProductDesign from "./pages/portfolio/design/devant-product-design"
 // Blog post pages
 import WhatIsSocialMedia from "./pages/blog/Social Media Management/what-is-social-media";
 import WritingMyFirstPersonalBlog from "./pages/blog/Personal/writing-my-first-personal-blog";
+import ConnectingReactContactFormToHighLevelUsingN8n from "./pages/blog/Automation/connecting-react-contact-form-to-highlevel-using-n8n";
 import "./App.css";
 
 // Scroll to top component
@@ -72,6 +73,14 @@ function App() {
             <Route
               path="/blog/writing-my-first-personal-blog"
               element={<WritingMyFirstPersonalBlog />}
+            />
+            <Route
+              path="/blog/writing-my-first-personal-blog"
+              element={<WritingMyFirstPersonalBlog />}
+            />
+            <Route
+              path="/blog/connecting-react-contact-form-to-highlevel-using-n8n"
+              element={<ConnectingReactContactFormToHighLevelUsingN8n />}
             />
 
             {/* Placeholder routes for other projects */}
