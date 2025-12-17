@@ -111,10 +111,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                   built this:
                 </p>
                 {/* Content Image 1 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/hardcoded react website.webp"
+                    alt="A hard coded React website shown in VS Code Editor."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -195,10 +195,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </p>
 
                 {/* Content Image 2 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/n8n webhook cluttered headers.webp"
+                    alt="A webhook node being configured with multiple Response Headers."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -208,10 +208,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </p>
 
                 {/* Content Image 3 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/n8n webhook uncluttered headers with result.webp"
+                    alt="A webhook node being configured without multiple Response Headers."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -263,10 +263,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </p>
 
                 {/* Content Image 4 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/edit fields red errors.webp"
+                    alt="An Edit Field Node being configured with multiple errors on values because of invalid JSON."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -297,10 +297,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </div>
 
                 {/* Content Image 5 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/n8n edit fields green errors.webp"
+                    alt="An Edit Field Node being configured with green values but multiple errors because of invalid JSON."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -338,10 +338,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </p>
 
                 {/* Content Image 6 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/n8n edit fields no error with result.webp"
+                    alt="An Edit Field Node being configured with no errors and a successful result."
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -413,10 +413,10 @@ function ConnectingReactContactFormToHighLevelUsingN8n() {
                 </p>
 
                 {/* Content Image 7 */}
-                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
+                <div className="w-full h-full bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center overflow-hidden rounded-lg mx-auto my-8">
                   <img
-                    src="/images/First Blog Feature Image-2.webp"
-                    alt="A pixelated, cinematic, and illustrated image of a man writing his first blog on a laptop, surrounded by books and a cup of coffee, in a cozy room with warm lighting."
+                    src="/images/highlevel contact created with message.webp"
+                    alt="A Highlevel Contact Tab with successful creation of contact from n8n with message on the note."
                     className="w-full h-full object-cover"
                   />
                 </div>
