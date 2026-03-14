@@ -26,10 +26,16 @@ function HeroSection() {
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-20 items-center">
           {/* Left Column - Text Content */}
           <FadeInLeft delay={0.2}>
-            <div className="space-y-8">
+            <div className="space-y-4">
               {/* Main Title */}
               <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-[#000080] dark:text-[#C1CBF8] leading-tight">
-                AI Automation Specialist
+                Tech SAVVY Virtual Assistant
+              </h1>
+              <h1 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-[#000080] dark:text-[#C1CBF8] leading-tight">
+                CRM Automation Expert
+              </h1>
+              <h1 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-[#000080] dark:text-[#C1CBF8] leading-tight">
+                Website Design + Copywriter
               </h1>
 
               {/* Description */}
@@ -51,6 +57,12 @@ function HeroSection() {
                   right place
                 </span>
                 .
+              </p>
+              <p className="text-lg sm:text-xl lg:text-2xl font-medium text-[#636e97] dark:text-[#C1CBF8] leading-relaxed">
+                Experienced in making websites that convert and automations that
+                actually work. I also do graphic design and copywriting, so I
+                can help you with all the pieces to make your business run
+                smoothly.
               </p>
 
               {/* Call-to-Action Buttons */}

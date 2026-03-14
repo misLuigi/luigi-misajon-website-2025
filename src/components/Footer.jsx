@@ -12,7 +12,7 @@ import {
 
 function Footer() {
   return (
-    <footer className="bg-[#cccce6] dark:bg-[#0a1e3f] text-[#000080] dark:text-[#C1CBF8] transition-colors duration-300 mt-20">
+    <footer className="bg-[#cccce6] dark:bg-[#0a1e3f] text-[#000080] dark:text-[#C1CBF8] transition-colors duration-300">
       {/* Call to Action Section */}
       <div className="bg-[#FCF7FF] dark:bg-[#374469] py-16 border-t border-[#AFA8BA] relative overflow-hidden transition-colors duration-300">
         {/* Background Pattern - Masked */}
