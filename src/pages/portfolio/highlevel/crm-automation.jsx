@@ -48,12 +48,24 @@ function CRMAutomation() {
                 streamline customer journey from initial contact to conversion.
               </p>
               <div className="flex flex-wrap gap-4">
-                <button className="bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white px-8 py-3 rounded-xl font-semibold transition-all duration-300">
-                  View Live Demo
-                </button>
-                <button className="border-2 border-purple-500 text-purple-600 hover:bg-purple-50 px-8 py-3 rounded-xl font-semibold transition-all duration-300">
-                  Contact Me
-                </button>
+                <a
+                  href="https://youtu.be/WaRL_BmDOrg?si=vE29c7zmsZ2h2DS4"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white px-8 py-3 rounded-xl font-semibold transition-all duration-300">
+                    View Live Demo
+                  </button>
+                </a>
+                <a
+                  href="https://luigi-ai-automation-specialist.vercel.app/contact"
+                  target="_self"
+                  rel="noopener noreferrer"
+                >
+                  <button className="border-2 border-purple-500 text-purple-600 hover:bg-purple-50 px-8 py-3 rounded-xl font-semibold transition-all duration-300">
+                    Contact Me
+                  </button>
+                </a>
               </div>
             </div>
             <div className="relative">
